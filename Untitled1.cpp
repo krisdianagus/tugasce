@@ -2,5 +2,6 @@
 using namespace std;
 
 int main(){
-	cout <<"hello word";
+	cout <<"Halo Dunia" << endl ;
+	cout <<"Ini program c++ pertama saya";
 }
